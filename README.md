@@ -19,5 +19,21 @@ Microsoft Sentinel (SIEM)
 KQL (Kusto Query Language)
 
 HTML + Chart.js (Dashboard Visualization)
+## Detection Use Cases
+### Brute Force Attack Detection
+Event ID: 4625
+
+Detection: Multiple failed login attempts
+
+Response: Disable User Account
+
+MITRE Mapping:
+
+Tactic: Credential Access
+
+Technique: T1110 - Brute Force
+
+
+
 
 
