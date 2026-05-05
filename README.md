@@ -14,4 +14,10 @@ PowerShell
 
 Windows Event Logs
 
+Microsoft Sentinel (SIEM)
+
+KQL (Kusto Query Language)
+
+HTML + Chart.js (Dashboard Visualization)
+
 
